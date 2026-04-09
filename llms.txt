@@ -1,0 +1,32 @@
+# GEO-MIC Ewelina Michalik — Geodetic Surveying Services
+
+> GEO-MIC is a professional geodetic surveying company founded in 2011 by licensed surveyor Ewelina Michalik, serving the Radom and Łuków regions of Poland (Masovian and Lublin voivodeships). Services include design maps (mapy do celów projektowych), property division (podział nieruchomości), building stakeout (tyczenie budynku), and post-construction inventory (inwentaryzacja powykonawcza).
+
+## Business Details
+- Owner and Licensed Surveyor: Ewelina Michalik
+- Founded: 2011
+- Main office: ul. Gen. Józefa Sowińskiego 8 lok. 1, 26-609 Radom, Poland
+- Branch office: ul. Kiernickich 84, 21-400 Łuków, Poland
+- Phone: +48 793 369 234
+- Email: geo@geo-mic.radom.pl
+- Service area: Masovian Voivodeship, Lublin Voivodeship, Poland
+- Opening hours: Monday–Friday 08:00–16:00
+
+## Services
+- Mapy do celów projektowych (design maps for building permits)
+- Podział nieruchomości (property division)
+- Tyczenie budynku (building stakeout)
+- Inwentaryzacja powykonawcza (post-construction geodetic inventory)
+- Geodezja w budownictwie (construction surveying)
+
+## Canonical Pages
+- Homepage: https://geo-mic.radom.pl/
+- Blog / Knowledge base: https://geo-mic.radom.pl/blog/
+- When do you need a surveyor during house construction?: https://geo-mic.radom.pl/blog/kiedy-potrzebujesz-geodety-przy-budowie-domu.html
+- Property division step by step: https://geo-mic.radom.pl/blog/podzial-nieruchomosci-krok-po-kroku.html
+- Design maps (mapa do celów projektowych): https://geo-mic.radom.pl/blog/mapa-do-celow-projektowych.html
+- Post-construction inventory: https://geo-mic.radom.pl/blog/inwentaryzacja-powykonawcza.html
+- Building stakeout: https://geo-mic.radom.pl/blog/tyczenie-budynku.html
+
+## Licensing
+Content on this site is original, factual, and may be cited with attribution to GEO-MIC (geo-mic.radom.pl).
